@@ -141,6 +141,3 @@ vite.config.ts.timestamp-*
 # Fake DB JSON 
 src/db.json
 
-node_modules
-.env
-npm-debug.log
